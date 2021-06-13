@@ -1,0 +1,25 @@
+
+*{
+    border:solid;
+}
+h1{
+    color:aquamarine
+}
+.a{
+    color:brown;
+    display:flex;
+    flex-direction: column;
+}
+.a p{
+    font-family:cursive;
+}
+
+
+
+.abc{
+    display:flex;
+    flex-direction:column;
+    margin:100px ;
+    flex-wrap: wrap;
+    justify-content:center;
+}
